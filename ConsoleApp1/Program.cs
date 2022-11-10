@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WrieLinte("Frederik");
+Console.WriteLine("Frederik");
+Console.WriteLine("Test2");
